@@ -1,2 +1,2 @@
-a=input()
-print(a)
+WithoutSemicolon=input()
+print(WithoutSemicolon)
