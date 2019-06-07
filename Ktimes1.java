@@ -1,5 +1,5 @@
 import java.util.*;
-public class Ktimes
+public class Ktimes1
 {
     public static void main(String args[])
     {
