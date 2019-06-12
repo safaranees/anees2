@@ -1,0 +1,5 @@
+num=int(input())
+num2=input()
+num2=num2.split()
+num2.sort(reverse=True)
+print(*num2,sep="")
